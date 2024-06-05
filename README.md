@@ -6,6 +6,7 @@
 This code serves as a valuable tool for students in genetics and molecular biology to enhance their skills in interpreting and translating output files from sequencing experiments.
 
 ![Electropherogram](https://github.com/MeirSylman/Project_from_Electropherogram_to_peptide/blob/main/Chromatogram.jpg) 
+*Subtitle: Electropherograme*
 
 An [electropherogram](https://en.wikipedia.org/wiki/Electropherogram), a graphical representation of nucleotide sequences, is commonly used in DNA sequencing. By generating simulated electropherograms from known peptide sequences, users can practice reading these plots and understand the nuances of signal interpretation. Following successful interpretation of the electropherogram outputs, the nucleotide fragments need to be connected by finding overlapping bases—a step known as "[assembly](https://en.wikipedia.org/wiki/Sequence_assembly)." Since we obtain the complete DNA sequence, we can use the [genetic code](https://en.wikipedia.org/wiki/Genetic_code) to translate it into an amino acid sequence. Practicing this step teaches the usage and structure of the genetic code.
 
