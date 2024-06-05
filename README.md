@@ -15,4 +15,4 @@ Beyond its educational utility, this code can be adapted into an engaging and ed
 - The nucleotide sequence is divided into overlapping k-mers, resembling sequencing output.
 - Each k-mer is plotted as an electropherogram, showing signal intensities for nucleotides.
 
- [assignments](https://github.com/MeirSylman/MyAssignments/tree/main).
+
