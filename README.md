@@ -10,12 +10,14 @@ This code serves as a valuable tool for students in genetics and molecular biolo
 *Electropherograme*
 
 
+
 An [electropherogram](https://en.wikipedia.org/wiki/Electropherogram), a graphical representation of nucleotide sequences, is commonly used in DNA sequencing.
 By generating simulated electropherograms from known peptide sequences, users can practice reading these plots and understand the nuances of signal interpretation. Following successful interpretation of the electropherogram outputs, the nucleotide fragments need to be connected by finding overlapping bases—a step known as "[assembly](https://en.wikipedia.org/wiki/Sequence_assembly)." 
 
 ![assembly](https://github.com/MeirSylman/Project_from_Electropherogram_to_peptide/blob/main/Types_of_sequencing_assembly.png)
 
 *Sequence asemmbly*
+
 
 
 
@@ -28,6 +30,8 @@ Beyond its educational utility, this code can be adapted into an engaging and ed
 ![quiz](https://github.com/MeirSylman/Project_from_Electropherogram_to_peptide/blob/main/quiz.png)
 
 *Example quize*
+
+
 
 
 
