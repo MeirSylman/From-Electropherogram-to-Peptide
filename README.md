@@ -1,5 +1,5 @@
 
-### Project Goals:
+### Goals:
 
 #### Practicing Electropherogram Reading, Sequence Assembly, and Translating Nucleotides to Peptides:
 This code serves as a valuable tool for students in genetics and molecular biology to enhance their skills in interpreting and translating output files from sequencing experiments.
