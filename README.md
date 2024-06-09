@@ -1,4 +1,7 @@
 
+###### From Electropherogram to Peptide
+
+
 ### Goals:
 
 #### Practicing Electropherogram Reading, Sequence Assembly, and Translating Nucleotides to Peptides:
