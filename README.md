@@ -34,12 +34,42 @@ Beyond its educational utility, this code can be adapted into an engaging and ed
 
 
 
-### Brief Code Plan:
+### Brief Code structure:
 
 - Users choose whether to input an amino acid sequence or generate a random one for self-practicing.
 - The amino acid sequence is translated into a nucleotide sequence using the genetic code.
 - The nucleotide sequence is divided into overlapping k-mers, resembling sequencing output.
 - Each k-mer is plotted as an electropherogram, showing signal intensities for nucleotides.
+
+
+### Instructions:
+
+#### 1. **Install Dependencies:**
+
+Use the following command to install the required dependencies:
+
+```sh
+pip install -r requirements.txt
+```
+
+#### 2. **Run the Program:**
+
+Save the provided code into a file named `Electropherogram_to_peptide_quiz.py`. To run the program, use the following command in your terminal:
+
+```sh
+python Electropherogram_to_peptide_quiz.py
+```
+
+- Choose if you want to *enter* your own amino acid sequence or to use *random* sequences.
+- Save the outputs (figures, nucleotide & peptide sequences).
+
+#### 3. **Run Tests with `pytest`:**
+
+To run the tests, use the following command in your terminal:
+
+```sh
+pytest
+```
 
 
 This project was originally implemented as part of the [Python programming course](https://github.com/szabgab/wis-python-course-2024-04) at the [Weizmann Institute of Science](https://www.weizmann.ac.il/) taught by [Gabor Szabo](https://szabgab.com/)
