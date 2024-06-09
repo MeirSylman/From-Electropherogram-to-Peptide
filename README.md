@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 #### 2. **Run the Program:**
 
-Save the provided code into a file named `Electropherogram_to_peptide_quiz.py`. To run the program, use the following command in your terminal:
+To run the program, use the following command in your terminal:
 
 ```sh
 python Electropherogram_to_peptide_quiz.py
