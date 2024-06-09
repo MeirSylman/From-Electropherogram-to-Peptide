@@ -1,5 +1,5 @@
 
-###### From Electropherogram to Peptide
+# From Electropherogram to Peptide
 
 
 ### Goals:
