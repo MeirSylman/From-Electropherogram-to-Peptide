@@ -34,12 +34,16 @@ Beyond its educational utility, this code can be adapted into an engaging and ed
 
 
 
+
+
 ### Brief Code structure:
 
 - Users choose whether to input an amino acid sequence or generate a random one for self-practicing.
 - The amino acid sequence is translated into a nucleotide sequence using the genetic code.
 - The nucleotide sequence is divided into overlapping k-mers, resembling sequencing output.
 - Each k-mer is plotted as an electropherogram, showing signal intensities for nucleotides.
+
+
 
 
 ### Instructions:
@@ -70,6 +74,8 @@ To run the tests, use the following command in your terminal:
 ```sh
 pytest
 ```
+
+
 
 
 This project was originally implemented as part of the [Python programming course](https://github.com/szabgab/wis-python-course-2024-04) at the [Weizmann Institute of Science](https://www.weizmann.ac.il/) taught by [Gabor Szabo](https://szabgab.com/)
